@@ -1,0 +1,90 @@
+osoba
+rower
+samochód
+motocykl
+samolot
+autobus
+pociąg
+ciężarówka
+łódź
+sygnalizacja świetlna
+hydrant
+???
+znak stopu
+Parkometr
+ławka
+ptak
+kot
+pies
+koń
+owce
+krowa
+słoń
+niedźwiedź
+zebra
+żyrafa
+???
+plecak
+parasol
+???
+???
+torebka
+krawat
+walizka
+frisbee
+narty
+deska snowboardowa
+piłka sportowa
+latawiec
+kij baseball'owy
+rękawica bejsbolowa
+deskorolka
+deska surfingowa
+rakieta tenisowa
+butelka
+???
+lampka wina
+filiżanka
+widelec
+nóż
+łyżka
+miska
+banan
+jabłko
+kanapka
+Pomarańczowy
+brokuły
+marchewka
+hot dog
+Pizza
+pączek
+ciasto
+krzesło
+kanapa
+roślina doniczkowa
+łóżko
+???
+stół obiadowy
+???
+???
+toaleta
+???
+telewizja
+laptop
+mysz
+zdalny
+klawiatura
+komórka
+kuchenka mikrofalowa
+piekarnik
+opiekacz
+zlew
+lodówka
+???
+książka
+zegar
+wazon
+nożyce
+Miś
+suszarka do włosów
+Szczoteczka do zębów

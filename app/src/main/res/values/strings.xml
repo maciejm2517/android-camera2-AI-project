@@ -1,0 +1,214 @@
+<resources>
+    <string name="app_name">Projekt</string>
+    <string name="sql_records">dsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfdsfsd\ndsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\ndsfdsfsd\n</string>
+    <string name="sql">Show Records</string>
+    <string name="sql_del">Delete Data</string>
+    <string name="show_camera_eng">Show camera</string>
+    <string name="language_eng">Change Language</string>
+    <string name="close_camera_eng">Show Labels</string>
+    <string name="labels_eng">labels</string>
+    <string name="settings_eng">Open Settings</string>
+
+    <string name="sql_pl">Pokaż rekordy</string>
+    <string name="sql_del_pl">Usuń dane</string>
+    <string name="show_camera_eng_pl">Pokaż kamerę</string>
+    <string name="language_eng_pl">Zmień język</string>
+    <string name="close_camera_eng_pl">Pokaż etykiety</string>
+    <string name="labels_eng_pl">Etykiety</string>
+    <string name="settings_eng_pl">Otwórz ustawienia</string>
+    <string name="labels_pl">
+        osoba\n
+rower\n
+samochód\n
+motocykl\n
+samolot\n
+autobus\n
+pociąg\n
+ciężarówka\n
+łódź\n
+sygnalizacja świetlna\n
+hydrant\n
+???\n
+znak stopu\n
+Parkometr\n
+ławka\n
+ptak\n
+kot\n
+pies\n
+koń\n
+owce\n
+krowa\n
+słoń\n
+niedźwiedź\n
+zebra\n
+żyrafa\n
+???\n
+plecak\n
+parasol\n
+???\n
+???\n
+torebka\n
+krawat\n
+walizka\n
+frisbee\n
+narty\n
+deska snowboardowa\n
+piłka sportowa\n
+latawiec\n
+kij baseballowy\n
+rękawica bejsbolowa\n
+deskorolka\n
+deska surfingowa\n
+rakieta tenisowa\n
+butelka\n
+???\n
+lampka wina\n
+filiżanka\n
+widelec\n
+nóż\n
+łyżka\n
+miska\n
+banan\n
+jabłko\n
+kanapka\n
+Pomarańczowy\n
+brokuły\n
+marchewka\n
+hot dog\n
+Pizza\n
+pączek\n
+ciasto\n
+krzesło\n
+kanapa\n
+roślina doniczkowa\n
+łóżko\n
+???\n
+stół obiadowy\n
+???\n
+???\n
+toaleta\n
+???\n
+telewizja\n
+laptop\n
+mysz\n
+zdalny\n
+klawiatura\n
+komórka\n
+kuchenka mikrofalowa\n
+piekarnik\n
+opiekacz\n
+zlew\n
+lodówka\n
+???\n
+książka\n
+zegar\n
+wazon\n
+nożyce\n
+Miś\n
+suszarka do włosów\n
+Szczoteczka do zębów\n
+    </string>
+    <string name="labels">person\n
+bicycle\n
+car\n
+motorcycle\n
+airplane\n
+bus\n
+train\n
+truck\n
+boat\n
+traffic light\n
+fire hydrant\n
+???\n
+stop sign\n
+parking meter\n
+bench\n
+bird\n
+cat\n
+dog\n
+horse\n
+sheep\n
+cow\n
+elephant\n
+bear\n
+zebra\n
+giraffe\n
+???\n
+backpack\n
+umbrella\n
+???\n
+???\n
+handbag\n
+tie\n
+suitcase\n
+frisbee\n
+skis\n
+snowboard\n
+sports ball\n
+kite\n
+baseball bat\n
+baseball glove\n
+skateboard\n
+surfboard\n
+tennis racket\n
+bottle\n
+???\n
+wine glass\n
+cup\n
+fork\n
+knife\n
+spoon\n
+bowl\n
+banana\n
+apple\n
+sandwich\n
+orange\n
+broccoli\n
+carrot\n
+hot dog\n
+pizza\n
+donut\n
+cake\n
+chair\n
+couch\n
+potted plant\n
+bed\n
+???\n
+dining table\n
+???\n
+???\n
+toilet\n
+???\n
+tv\n
+laptop\n
+mouse\n
+remote\n
+keyboard\n
+cell phone\n
+microwave\n
+oven\n
+toaster\n
+sink\n
+refrigerator\n
+???\n
+book\n
+clock\n
+vase\n
+scissors\n
+teddy bear\n
+hair drier\n
+toothbrush</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="homefragment_pl">Pokazać autora i źródła?</string>
+    <string name="homefragment_en">Show author and sources?</string>
+    <string name="turn_off_en">type: yes</string>
+    <string name="turn_off_pl">napisz: tak</string>
+    <string name="button_accept_pl">zatwierdź</string>
+    <string name="button_accept_en">accept</string>
+    <string name="turned_off_pl">Autorem jest Maciej Mak</string>
+    <string name="turned_off_en">Author is Maciej Mak</string>
+    <string name="button_return_pl">Powróć do aktywności</string>
+    <string name="button_return_en">Return to activity</string>
+
+</resources>
